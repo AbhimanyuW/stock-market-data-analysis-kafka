@@ -1,2 +1,10 @@
-# stock-market-data-analysis-kafka
-A data analysis project on stock market data using Kafka on AWS.
+# Stock Market Data Analysis using Kafka
+
+## Technologies Used 
+Python Programming Language
+Amazon Web Services (AWS) - EC2, S3, Glue Crawler, Glue Catalog, Athena
+Apache Kafka
+
+## Dataset Used 
+The dataset used was in a csv format and can be found here: https://github.com/AbhimanyuW/stock-market-data-analysis-kafka/blob/main/indexProcessed.csv
+
