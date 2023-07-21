@@ -8,7 +8,9 @@ The goal of this project was to create a data pipeline by utilising Apache Kafka
 
 ## Technologies Used 
 Python Programming Language
+
 Amazon Web Services (AWS) - EC2, S3, Glue Crawler, Glue Catalog, Athena
+
 Apache Kafka
 
 ## Dataset Used 
